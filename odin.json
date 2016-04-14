@@ -1,10 +1,10 @@
 {
   "id": "northem-dark-gedit-syntax",
   "name": "Northem Dark - Gedit Syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "date": {
    "created": "2015-03-15 20:17 UTC+0100",
-   "updated": "2016-04-14 12:56 UTC+0200"
+   "updated": "2016-04-14 13:18 UTC+0200"
   },
   "access": "public",
   "modularity": "subproject",
