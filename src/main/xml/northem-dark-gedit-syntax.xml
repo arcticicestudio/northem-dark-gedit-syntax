@@ -21,6 +21,8 @@ This is a darker and more blue-tinged variation of the "Northem" color palette.
   (1) Color Palette
     (1.0) Northem Dark 1.0.1
   (2) Settings
+  (3) Definitions
+    (3.0) Customs
 
 [Variations]
   - "Northem - Gedit Syntax"       (https://github.com/arcticicestudio/northem-gedit-syntax)
@@ -173,4 +175,18 @@ Glacier - Git
   <style name="draw-spaces" foreground="light-coal" />
   <style name="right-margin" foreground="light-coal" />
 <!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [2]-+ -->
+
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     + Definitions                                                            [3] +
+     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -->
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     + Definitions - Customs                                                [3.0] +
+     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -->
+  <style name="def:symbol" foreground="white" />
+  <style name="def:other" foreground="white" />
+  <style name="def:regexp" foreground="yellow" />
+  <style name="def:verbatim" foreground="yellow" />
+  <style name="def:escape" foreground="yellow" />
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [3.0]-+ -->
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [3]-+ -->
 </style-scheme>
