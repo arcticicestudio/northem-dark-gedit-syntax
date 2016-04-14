@@ -1,0 +1,2 @@
+Northem Dark - Gedit Syntax
+===========================
