@@ -20,6 +20,7 @@ This is a darker and more blue-tinged variation of the "Northem" color palette.
 [Index]
   (1) Color Palette
     (1.0) Northem Dark 1.0.1
+  (2) Settings
 
 [Variations]
   - "Northem - Gedit Syntax"       (https://github.com/arcticicestudio/northem-gedit-syntax)
@@ -155,4 +156,21 @@ Glacier - Git
   <color name="purple"       value="#C2A1CA" />
 <!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [1.0]-+ -->
 <!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [1]-+ -->
+
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     + Settings                                                               [2] +
+     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -->
+  <style name="text" foreground="white" />
+  <style name="selection" foreground="white" background="dark-blue" />
+  <style name="selection-unfocused" foreground="white" background="dark-blue" />
+  <style name="current-line" foreground="white" background="coal" />
+  <style name="line-numbers" foreground="light-coal" background="darkest-coal" />
+  <style name="cursor" foreground="white" />
+  <style name="secondary-cursor" use-style="cursor" />
+  <style name="bracket-match" foreground="white" background="dark-blue" />
+  <style name="bracket-mismatch" foreground="red" underline="true" />
+  <style name="search-match" foreground="white" background="dark-blue" underline="true" />
+  <style name="draw-spaces" foreground="light-coal" />
+  <style name="right-margin" foreground="light-coal" />
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [2]-+ -->
 </style-scheme>
